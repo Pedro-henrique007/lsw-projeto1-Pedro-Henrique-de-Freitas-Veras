@@ -1,3 +1,4 @@
+
 # Minha Loja - Game Station
 
 Aluno(a): PEDRO HENRIQUE DE FREITAS VERAS - 202612010022
